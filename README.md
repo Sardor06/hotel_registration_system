@@ -1,4 +1,4 @@
-# C project template
+# C project 
 
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fwhy-you-should-learn-c-your-first-language-saroj-kumar-sharma&psig=AOvVaw1_YcTPExB3roulDnFRv27v&ust=1705064976931000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjYmJW01YMDFQAAAAAdAAAAABAU" align="center" />
 
